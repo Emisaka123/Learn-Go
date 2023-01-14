@@ -18,5 +18,5 @@ func main() {
 	}
 	for k := range m {
 		fmt.Println("key", k)
-	} //test123
+	}
 }
