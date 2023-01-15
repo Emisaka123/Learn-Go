@@ -21,5 +21,5 @@ func main() {
 
 	f := 3.141592653
 	fmt.Println(f)
-	fmt.Printf("%.2f\n", f) // 3.14
+	fmt.Printf("%.2f\n", f) // 3.1415
 }
